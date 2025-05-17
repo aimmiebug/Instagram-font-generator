@@ -1,1 +1,1 @@
-# Instagram-font-generator
+# Font-generator
